@@ -71,8 +71,4 @@
     "webpack-dev-server": "^4.4.0"
   }
 }
-{
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  }
-}
+
